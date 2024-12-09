@@ -1,8 +1,9 @@
 # Проєкт Статистика Автомобілів
 
 ## Автор
-Скомороха Олег Ігорович
-телеграм: https://t.me/olegskomoroha
+- **Скомороха Олег Ігорович**
+- **Телеграм**: [@olegskomoroha](https://t.me/olegskomoroha)
+- **Email**: [oleg.skomoroha1@gmail.com](mailto:oleg.skomoroha1@gmail.com)
 ## Група
 ІО-25
 ## Опис проєкту
